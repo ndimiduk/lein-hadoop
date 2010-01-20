@@ -6,5 +6,7 @@ the project dependencies.
 
 ## Usage
 
-A new target is added: lein hadoop
+A new target is added:
+
+    $ lein hadoop
 
