@@ -6,13 +6,11 @@ the project dependencies.
 
 ## Installation
 
-1. Checkout the code
-2. Compile and install it with <tt>lein compile ; lein install</tt>
-3. Add to your project <tt>:dev-dependencies [[org.clojars.ndimiduk/lein-hadoop "0.0.1-SNAPSHOP"]]</tt>
+Add to your project.clj <tt>:dev-dependencies [lein-hadoop "1.0.0"]]</tt>
 
 ## Usage
 
-A new target is added:
+A new target is added which generates PROJECT-hadoop.jar:
 
     $ lein hadoop
 
