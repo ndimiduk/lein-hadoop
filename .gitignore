@@ -1,6 +1,7 @@
 pom-generated.xml
 pom.xml
 Manifest.txt
-lein-hadoop*.jar
+*.jar
 lib
 classes
+.lein-*
