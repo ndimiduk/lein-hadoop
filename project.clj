@@ -1,5 +1,4 @@
-(defproject lein-hadoop "1.0.0"
+(defproject org.clojars.kurtharriger/lein-hadoop "1.0.1"
   :description "A leiningen plugin to build jars for hadoop."
-  :dev-dependencies [[org.clojure/clojure "1.1.0"]
-		     [org.clojure/clojure-contrib "1.1.0"]
-		     [lein-clojars "0.6.0"]])
+  :url "https://github.com/kurtharriger/lein-hadoop"
+  :eval-in-leiningen true)
